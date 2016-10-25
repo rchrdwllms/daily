@@ -2,8 +2,10 @@ p {
   text-align: center;
   font-family: monospace;
   vertical-align: middle;
-  padding: 40px;
+  line-height: 20px;
   background-color: #89b6ff;
+  color: white;
+
 }
 
 body {
